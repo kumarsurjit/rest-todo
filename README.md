@@ -16,7 +16,7 @@ virtualenv --python=<path_to_python3> <location_of_virtualenv>
 *clone project*
 execute the following commands to clone the codebase and install dependencies.
 ```
-git clone <git> todo
+git clone https://github.com/ccommando/rest-todo.git todo
 cd todo
 pip install -r requirements.txt
 ```
